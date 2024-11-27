@@ -1,0 +1,12 @@
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    border-bottom: 10px;
+    background-color:darkcyan;
+    height: 25px;
+}
+img{
+    text-align: center;
+}
